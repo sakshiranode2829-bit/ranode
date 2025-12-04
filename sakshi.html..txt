@@ -1,0 +1,19 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>Webpage</title>
+<body bgcolor="yellow" Text="black">
+<marquee>Subject<marquee>
+<h1>Subject</h1>
+<ul>
+<li> MATHS</li>
+<li>SCIENCE</li>
+</ul>
+<ol>
+<li>first</li>
+<li>second</li>
+<a href="http://www.google.com">GOOGLE</a>
+<img src="peacock.JFIF">
+</img>
+</body>
+</html>
